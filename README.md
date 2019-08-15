@@ -6,4 +6,4 @@ Features:
 - Sends reports by email.
 - Starts with system startup.
 - Works with Linux and Windows.
-- Does not require root or admin privlages.
+- Does not require root or admin privileges.
