@@ -24,10 +24,10 @@ python xlogger.py -i [time count in second] -w -e [Email] -p [password] -o [file
 
 ### Features:
 
-Logs keys pressed on keyboard.
-Sends reports by email.
-Starts with system startup.
-Works with Linux and Windows.
-Does not require root or admin privileges.
+- Logs keys pressed on keyboard.
+- Sends reports by email.
+- Starts with system startup.
+- Works with Linux and Windows.
+- Does not require root or admin privileges.
 
 
