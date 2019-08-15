@@ -15,6 +15,8 @@ chmod +x install.sh
 ### Usage
 python xlogger.py
 
+![alt text](https://i.imgur.com/WcHem3T.jpg)
+
 #### For Windows
 python xlogger.py -i [time count in second] -w -e [Email] -p [password] -o [file name]
 
