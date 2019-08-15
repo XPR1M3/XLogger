@@ -21,7 +21,7 @@ python xlogger.py
 python xlogger.py -i [time count in second] -w -e [Email] -p [password] -o [file name]
 
 #### For Linux 
-python xlogger.py -i [time count in second] -w -e [Email] -p [password] -o [file name]
+python xlogger.py -i [time count in second] -l -e [Email] -p [password] -o [file name]
 
 
 ### Features:
